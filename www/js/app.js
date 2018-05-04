@@ -29,11 +29,7 @@ $('#confirmar').on('click', function() {
 });
 
 $('.sobre').on('click', function() {
-    document.addEventListener("deviceready", onDeviceReady, false);
-    function onDeviceReady() {
-        console.log(navigator.vibrate);
         navigator.vibrate([1000,500,1000]);
-    }
 });
 
 $('.scan-qrcode').on('click', function(){
