@@ -1,0 +1,22 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "ra.ra17454"
+    },
+    "phonegap-plugin-barcodescanner": {
+      "ANDROID_SUPPORT_V4_VERSION": "27.+",
+      "PACKAGE_NAME": "ra.ra17454"
+    },
+    "cordova-plugin-vibration": {
+      "PACKAGE_NAME": "ra.ra17454"
+    }
+  },
+  "dependent_plugins": {}
+}
